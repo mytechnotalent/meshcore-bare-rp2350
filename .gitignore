@@ -1,0 +1,11 @@
+build/
+.cache/
+__pycache__/
+*.pyc
+*.elf
+*.bin
+*.uf2
+*.map
+.vscode/
+compile_commands.json
+.DS_Store
